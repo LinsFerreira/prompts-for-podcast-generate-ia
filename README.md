@@ -51,13 +51,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspWalterlins Ferreira<br>
+    
+    <p>&nbspWalterlins Ferreira<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/LinsFerreira">
