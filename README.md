@@ -50,9 +50,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ## 👨‍💻 Expert
 
-<p>
-    
-    <p>&nbspWalterlins Ferreira<br>
+<p>  
+    &nbspWalterlins Ferreira<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/LinsFerreira">
@@ -64,7 +63,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         LinkedIn
     </a>
     &nbsp;|&nbsp;
-</p>
 </p>
 <br/><br/>
 <p>
